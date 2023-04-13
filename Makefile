@@ -3,7 +3,7 @@ CUDNN=0
 OPENCV=0
 OPENMP=0
 DEBUG=0
-wsl=1
+wsl=0
 #ARCH= -gencode arch=compute_30,code=sm_30 \
 #      -gencode arch=compute_35,code=sm_35 \
 #      -gencode arch=compute_50,code=[sm_50,compute_50] \
